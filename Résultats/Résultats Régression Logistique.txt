@@ -1,0 +1,13 @@
+Résultats Régression Logistique :
+              precision    recall  f1-score   support
+
+           0       0.76      0.80      0.78       200
+           1       0.79      0.75      0.77       200
+
+    accuracy                           0.77       400
+   macro avg       0.77      0.77      0.77       400
+weighted avg       0.77      0.77      0.77       400
+
+Précision: 0.7725
+Rappel: 75.0 %
+F1-Score: 0.7611

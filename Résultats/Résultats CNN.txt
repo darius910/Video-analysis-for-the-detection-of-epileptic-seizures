@@ -1,0 +1,13 @@
+Résultats CNN 1D :
+              precision    recall  f1-score   support
+
+           0       0.82      0.81      0.81       200
+           1       0.81      0.82      0.81       200
+
+    accuracy                           0.81       400
+   macro avg       0.81      0.81      0.81       400
+weighted avg       0.81      0.81      0.81       400
+
+Précision :  0.8078817733990148
+Rappel :  0.82
+F1-score :  0.8138957816377171
